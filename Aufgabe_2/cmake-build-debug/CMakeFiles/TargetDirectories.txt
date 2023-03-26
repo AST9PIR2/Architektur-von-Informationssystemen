@@ -1,0 +1,3 @@
+/mnt/c/Users/Pirmin.000/OneDrive - mci4me.at/Dokumente/4_Semester/Architektur von Informationssystemen/Aufgabe_2/cmake-build-debug/CMakeFiles/Aufgabe_2.dir
+/mnt/c/Users/Pirmin.000/OneDrive - mci4me.at/Dokumente/4_Semester/Architektur von Informationssystemen/Aufgabe_2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/c/Users/Pirmin.000/OneDrive - mci4me.at/Dokumente/4_Semester/Architektur von Informationssystemen/Aufgabe_2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

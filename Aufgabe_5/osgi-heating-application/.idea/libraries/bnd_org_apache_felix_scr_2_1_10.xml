@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="bnd:org.apache.felix.scr:2.1.10">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/felix/org.apache.felix.scr/2.1.10/org.apache.felix.scr-2.1.10.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component inheritJdk="true">
+	<output-test url="file://$MODULE_DIR$/bin_test"/>
+	<exclude-output/>
+	<contentEntry url="file://$MODULE_DIR$">
+		<testFolder url="file://$MODULE_DIR$/test"/>
+		<excludeFolder url="file://$MODULE_DIR$/generated"/>
+	</contentEntry>
+	<levels>
+		<level name="bnd:osgi.annotation:6.0.1.201503162037" value="project"/>
+		<level name="bnd:osgi.cmpn:4.3.1.201210102024" value="project"/>
+		<level name="bnd:osgi.core:4.3.1.201210102023" value="project"/>
+	</levels>
+</component>

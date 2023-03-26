@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/com.mci.heating.api/com.mci.heating.api.iml" filepath="$PROJECT_DIR$/com.mci.heating.api/com.mci.heating.api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.mci.heating.controller.impl/com.mci.heating.controller.impl.iml" filepath="$PROJECT_DIR$/com.mci.heating.controller.impl/com.mci.heating.controller.impl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.mci.heating.device.impl/com.mci.heating.device.impl.iml" filepath="$PROJECT_DIR$/com.mci.heating.device.impl/com.mci.heating.device.impl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.mci.heating.sensor.impl/com.mci.heating.sensor.impl.iml" filepath="$PROJECT_DIR$/com.mci.heating.sensor.impl/com.mci.heating.sensor.impl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/org.mci.demo/org.mci.demo.iml" filepath="$PROJECT_DIR$/org.mci.demo/org.mci.demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/osgi-heating-application.iml" filepath="$PROJECT_DIR$/osgi-heating-application.iml" />
+    </modules>
+  </component>
+</project>

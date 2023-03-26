@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component LANGUAGE_LEVEL="JDK_11" inheritJdk="true">
+	<output-test url="file://$MODULE_DIR$/bin_test"/>
+	<exclude-output/>
+	<contentEntry url="file://$MODULE_DIR$">
+		<testFolder url="file://$MODULE_DIR$/test"/>
+		<excludeFolder url="file://$MODULE_DIR$/generated"/>
+	</contentEntry>
+	<lib name="bnd:org.apache.servicemix.bundles.junit:4.12.0.1" scope="TEST"/>
+	<lib name="bnd:org.mockito.mockito-core:2.17.0" scope="TEST"/>
+	<lib name="bnd:org.objenesis:2.6.0" scope="TEST"/>
+	<lib name="bnd:net.bytebuddy.byte-buddy:1.8.0" scope="TEST"/>
+	<lib name="bnd:net.bytebuddy.byte-buddy-agent:1.8.0" scope="TEST"/>
+	<levels>
+		<level name="bnd:osgi.annotation:7.0.0.201802012106" value="project"/>
+		<level name="bnd:osgi.core:7.0.0.201802012106" value="project"/>
+		<level name="bnd:osgi.cmpn:7.0.0.201802012110" value="project"/>
+		<level name="bnd:org.apache.felix.scr:2.1.10" value="project"/>
+		<level name="bnd:org.apache.servicemix.bundles.junit:4.12.0.1" value="project"/>
+		<level name="bnd:org.mockito.mockito-core:2.17.0" value="project"/>
+		<level name="bnd:org.objenesis:2.6.0" value="project"/>
+		<level name="bnd:net.bytebuddy.byte-buddy:1.8.0" value="project"/>
+		<level name="bnd:net.bytebuddy.byte-buddy-agent:1.8.0" value="project"/>
+	</levels>
+</component>

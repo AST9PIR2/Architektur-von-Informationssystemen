@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="Osmorc" name="OSGi">
+      <configuration manifestGenerationMode="Bnd" manifestLocation="" jarfileLocation="C:\OSGI_Aufgabe\Aufgabe_5_05\osgi-heating-application-master\osgi-heating-application\com.mci.heating.sensor.impl\generated\com.mci.heating.sensor.impl.jar" outputPathType="SpecificOutputPath" bndFileLocation="bnd.bnd" bundlorFileLocation="" bundleActivator="" bundleSymbolicName="" bundleVersion="1.0.0" ignoreFilePattern="" useProjectDefaultManifestFileLocation="true" alwaysRebuildBundleJAR="true" doNotSynchronizeWithMaven="true">
+        <additionalProperties />
+        <additionalJARContents />
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/bin" />
+    <output-test url="file://$MODULE_DIR$/bin_test" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/test" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/generated" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="com.mci.heating.api" />
+    <orderEntry type="library" name="bnd:osgi.cmpn:4.3.1.201210102024" level="project" />
+    <orderEntry type="library" name="bnd:osgi.core:4.3.1.201210102023" level="project" />
+    <orderEntry type="library" name="bnd:osgi.annotation:6.0.1.201503162037" level="project" />
+  </component>
+</module>

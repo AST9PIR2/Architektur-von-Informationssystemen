@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="com.mci.heating.api" target="17" />
+      <module name="com.mci.heating.controller.impl" target="17" />
+      <module name="com.mci.heating.device.impl" target="17" />
+      <module name="com.mci.heating.sensor.impl" target="17" />
+      <module name="org.mci.demo" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="DEPRECATION" value="false" />
+  </component>
+</project>

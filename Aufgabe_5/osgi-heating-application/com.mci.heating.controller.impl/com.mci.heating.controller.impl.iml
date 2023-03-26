@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="Osmorc" name="OSGi">
+      <configuration manifestGenerationMode="Bnd" manifestLocation="" jarfileLocation="C:\OSGI_Aufgabe\Aufgabe_5_05\osgi-heating-application-master\osgi-heating-application\com.mci.heating.controller.impl\generated\com.mci.heating.controller.impl.jar" outputPathType="SpecificOutputPath" bndFileLocation="bnd.bnd" bundlorFileLocation="" bundleActivator="" bundleSymbolicName="" bundleVersion="1.0.0" ignoreFilePattern="" useProjectDefaultManifestFileLocation="true" alwaysRebuildBundleJAR="true" doNotSynchronizeWithMaven="true">
+        <additionalProperties />
+        <additionalJARContents />
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/bin" />
+    <output-test url="file://$MODULE_DIR$/bin_test" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/test" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/generated" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="bnd:osgi.annotation:7.0.0.201802012106" level="project" />
+    <orderEntry type="library" name="bnd:osgi.core:7.0.0.201802012106" level="project" />
+    <orderEntry type="library" name="bnd:osgi.cmpn:7.0.0.201802012110" level="project" />
+    <orderEntry type="module" module-name="com.mci.heating.api" />
+    <orderEntry type="library" name="bnd:org.apache.felix.scr:2.1.10" level="project" />
+    <orderEntry type="library" scope="TEST" name="bnd:org.apache.servicemix.bundles.junit:4.12.0.1" level="project" />
+    <orderEntry type="library" scope="TEST" name="bnd:org.mockito.mockito-core:2.17.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="bnd:org.objenesis:2.6.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="bnd:net.bytebuddy.byte-buddy:1.8.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="bnd:net.bytebuddy.byte-buddy-agent:1.8.0" level="project" />
+  </component>
+</module>

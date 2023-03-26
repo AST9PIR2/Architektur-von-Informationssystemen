@@ -1,0 +1,8 @@
+Bundle-Version: 1.0.0
+-buildpath: \
+	com.mci.heating.api;version=latest,\
+	osgi.annotation,\
+	osgi.cmpn,\
+	osgi.core
+Export-Package: com.mci.heating.device.impl
+Import-Package: com.mci.heating.api

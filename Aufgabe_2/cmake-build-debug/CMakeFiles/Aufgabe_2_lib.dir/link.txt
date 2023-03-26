@@ -1,0 +1,2 @@
+/usr/bin/ar qc libAufgabe_2_lib.a CMakeFiles/Aufgabe_2_lib.dir/smpi.cpp.o
+/usr/bin/ranlib libAufgabe_2_lib.a

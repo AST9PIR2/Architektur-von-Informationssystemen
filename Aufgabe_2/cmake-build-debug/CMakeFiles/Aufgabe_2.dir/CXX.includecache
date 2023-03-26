@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/Pirmin.000/OneDrive - mci4me.at/Dokumente/4_Semester/Architektur von Informationssystemen/Aufgabe_2/main.cpp
+smpi.h
+/mnt/c/Users/Pirmin.000/OneDrive - mci4me.at/Dokumente/4_Semester/Architektur von Informationssystemen/Aufgabe_2/smpi.h
+pthread.h
+-
+stdio.h
+-
+stdlib.h
+-
+limits.h
+-
+sys/time.h
+-
+
+/mnt/c/Users/Pirmin.000/OneDrive - mci4me.at/Dokumente/4_Semester/Architektur von Informationssystemen/Aufgabe_2/smpi.h
+

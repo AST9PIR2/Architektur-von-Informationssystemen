@@ -1,0 +1,1 @@
+/usr/bin/cc  -pthread -g CMakeFiles/Aufgabe_1.dir/jacobi_algorithm.c.o -o Aufgabe_1 

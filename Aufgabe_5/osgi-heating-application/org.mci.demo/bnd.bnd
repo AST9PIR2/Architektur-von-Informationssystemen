@@ -1,0 +1,15 @@
+-buildpath: \
+	osgi.core,\
+	osgi.annotation,\
+	osgi.cmpn,\
+	com.mci.heating.api;version=latest,\
+	com.mci.heating.device.impl;version=latest,\
+	com.mci.heating.sensor.impl;version=latest,\
+    org.mci.demo.DemoActivatior,\
+	org.apache.felix.scr
+Bundle-Version: 1.0.0
+Export-Package: org.mci.demo
+
+Import-Package: \
+	org.osgi.framework,\
+	com.mci.heating.api
